@@ -1,0 +1,46 @@
+.menu{
+    color: blue;
+}
+footer{
+    text-align: center;
+    background-color: tomato;
+    background-size: 10px;
+}
+body{
+    background-image: url("pattern.jpg");
+}
+
+#atursection {
+    padding-left: 3cm;
+    padding-right: 3cm;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+header{
+    background-color:white;
+}
+
+h1{
+    text-align: center;
+}
+section{
+    background-color: white;
+    margin-left: 3cm;
+    margin-right: 3cm;
+}
+.p{
+    border-bottom: 1px solid black;
+}
+.coba {
+    margin-left: 60px;
+}
+
+.coba1 {
+    margin-top: 2cm;
+}
+
+
+
+
+
